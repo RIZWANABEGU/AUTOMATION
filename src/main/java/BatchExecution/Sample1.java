@@ -15,6 +15,7 @@ public class Sample1 {
 	@Test
 	public void Tc3() {
 		Reporter.log("running Tc3,true");
+		Reporter.log("boss iam updated from guthub");
 	}
 
 }
